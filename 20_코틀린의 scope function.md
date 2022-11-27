@@ -1,4 +1,4 @@
-- `scope function이란?`
+- `scope function이란?` 
     - 일시적인 영역을 형성하는 함수
     - 람다를 사용해 일시적인 영역을 만들고 코드를 더 간결하게 만들거나, method chaning에 활용하는 함수를 scope function이라고 합니다.
     
